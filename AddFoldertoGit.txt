@@ -1,0 +1,30 @@
+1)create repository in github copy the URL
+
+2)open gitdash 
+
+3)type
+git clone URL <---
+
+4)And to that folder
+cd Spring_86  <----
+
+5)Add all files/folder to that folder
+
+6)Add to temp locatio
+git add .  <--
+
+7)git status <---
+
+8)then commit to local repo
+git commit -m "commit1"  <---
+
+9)then push to remote repo
+git push  <----
+
+10)it ask UserName:--------
+11)then it Ask Password :------
+
+
+
+ git config --global user.email "aakulasaikiran@gmail.com"
+  git config --global user.name "aakulasaikiran"
